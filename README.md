@@ -1,2 +1,2 @@
 # norman-borlaug-biography
-Static landind page about Norman Borlaug's life
+Static landind page about Norman Borlaug's life.
